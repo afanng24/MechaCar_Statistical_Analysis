@@ -68,6 +68,29 @@ plt <- ggplot(mpg,aes(x=displ,y=cty,color=class,shape=drv)) #import dataset into
 plt + geom_point() + labs(x="Engine Size (L)", y="City Fuel-Efficiency (MPG)", color="Vehicle Class",shape="Type of Drive") #add scatter plot with multiple aesthetics
 
 
+plt <- ggplot(mpg,aes(y=hwy)) #import dataset into ggplot2
+plt + geom_boxplot() #add boxplot
+
+plt <- ggplot(mpg,aes(x=manufacturer,y=hwy)) #import dataset into ggplot2
+plt + geom_boxplot() + theme(axis.text.x=element_text(angle=45,hjust=1)) #add boxplot and rotate x-axis labels 45 degrees
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
