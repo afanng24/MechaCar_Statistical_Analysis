@@ -172,7 +172,8 @@ lm(qsec ~ mpg + disp + drat + wt + hp,data=mtcars) #generate multiple linear reg
 
 summary(lm(qsec ~ mpg + disp + drat + wt + hp,data=mtcars)) #generate summary statistics
 
+table(mpg$class,mpg$year) #generate contingency table
 
-
-
+tbl <- table(mpg$class,mpg$year) #generate contingency table
+chisq.test(tbl) #compare categorical distributions
 
