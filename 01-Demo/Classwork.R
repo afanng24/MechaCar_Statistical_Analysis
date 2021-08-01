@@ -30,3 +30,23 @@ long_table <- gather(demo_table3,key="Metric",value="Score",buying_price:popular
 wide_table <- long_table %>% spread(key="Metric",value="Score")
 table <-demo_table3[,order(colnames(wide_table))]
 table <- demo_table3[,(colnames(wide_table))]
+
+
+head(mpg)
+  
+plt <- ggplot(mpg,aes(x=class)) #import dataset into ggplot2
+plt + geom_bar() #plot a bar plot
+ggplot()
+?ggplot()
+
+
+?geom_bar()
+
+mpg_summary <- mpg %>% group_by(manufacturer) %>% summarize(Vehicle_Count=n(), .groups = 'keep') #create summary table
+plt <- ggplot(mpg_summary,aes(x=manufacturer,y=Vehicle_Count)) #import dataset into ggplot2
+plt + geom_col() #plot a bar plot
+
+
+
+
+
