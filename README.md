@@ -4,6 +4,13 @@
 
 ## Resources
 
+**Source of Data**: MechaCar_mpg.csv, Suspension_Coil.csv
+
+**Software** : RStudio
+
+
+
+
 ## Results
 
 ### Linear Regression to Predict MPG
