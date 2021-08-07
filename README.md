@@ -24,14 +24,9 @@
 
 - From the output of the formula it is clear that vehicle length and ground clearance are the two variables that provided a non-random amount of variance to the mpg values in the data set and therefore have the most impact on the mpg for the MechaCar prototype. 
 
+- The slope of the linear mode is not considered zero because the p-value of the formula is 5.35-11.
 
-
-
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-
-Is the slope of the linear model considered to be zero? Why or why not?
-
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- The multiple R-squared value of this formula is 0.7149, so around 72% (rounded up) of the MPG for MechaCar prototypes will be predicted effectively. 
 
 
 ### Summary Statistics on Suspension Coils
