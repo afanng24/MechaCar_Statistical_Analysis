@@ -60,7 +60,11 @@
 
 ![D3Part2TheRest](https://user-images.githubusercontent.com/82983000/128602062-bc9aa52e-2763-4a9f-9bb3-8b632e752ff9.png)
 
+From the one sample T-test we can see that the true mean of x is 1498.78 with a p-Value of 0.06 which means that the mean of all three lots is close to the population mean of 1500. 
 
+- fdfs
+- dsff
+- dsfs
 
 
 briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
