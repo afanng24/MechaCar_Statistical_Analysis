@@ -28,8 +28,23 @@
 
 - The multiple R-squared value of this formula is 0.7149, so around 72% (rounded up) of the MPG for MechaCar prototypes will be predicted effectively. 
 
-
 ### Summary Statistics on Suspension Coils
+
+#### Code: 
+![D2Code](https://user-images.githubusercontent.com/82983000/128601646-2106b9b8-1f4d-4c18-b5be-ada7655985fc.png)
+
+#### Total Summary:
+![D2Part1totalsummary](https://user-images.githubusercontent.com/82983000/128601662-6004cdc6-8bd5-468a-805a-eaba449815b5.png)
+
+
+#### Lot Summary: 
+![D2Part2lotsummary](https://user-images.githubusercontent.com/82983000/128601665-36785b01-6b20-46c8-84ca-2e7009f15d73.png)
+
+
+
+
+
+
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
