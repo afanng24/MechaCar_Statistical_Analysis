@@ -2,6 +2,9 @@
 
 ## Overview of Project
 
+The objective of MechaCar Analysis is to help a fellow team member, Jeremy, review the production data of insights to help the manufacturing team. To achieve our goal, we are to perform multiple linear regression analysis to identify which variable in the dataset predict MPG of MechaCar prototypes, collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots, run t-tests to determine if the manufacturing lots are statistically different from the mean population, and design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
+
+
 ## Resources
 
 **Source of Data**: MechaCar_mpg.csv, Suspension_Coil.csv
