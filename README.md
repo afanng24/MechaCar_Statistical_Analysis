@@ -60,11 +60,11 @@
 
 ![D3Part2TheRest](https://user-images.githubusercontent.com/82983000/128602062-bc9aa52e-2763-4a9f-9bb3-8b632e752ff9.png)
 
-From the one sample T-test we can see that the true mean of x is 1498.78 with a p-Value of 0.06 which means that the mean of all three lots is close to the population mean of 1500. 
+From the one sample T-test we can see that the true mean of x is 1498.78 with a p-Value of 0.06 which means that the mean of all three lots is close to the population mean of 1,500 pounds per square inch.
 
 - Lot 1 has a mean of exactly 1500 so there is no difference between the sample mean and population mean.
 - Lot 2 has a mean of 1500.2 with a p-value of 0.6072, which means there difference between sample mean and population mean is negligible.
-- Lot 3 has a mean of 14.96.14 with a p value of 0.04168, which means that even though lot 3 is the biggest discrepancy between sample mean and population mean the difference is still negligible. 
+- Lot 3 has a mean of 14.96.14 with a p value of 0.04168 which means that even though lot 3 is the biggest discrepancy between sample mean and population mean, the difference is still negligible. 
 
 
 ### Study Design: MechaCar vs Competition
