@@ -22,7 +22,7 @@
 ![D1Part1](https://user-images.githubusercontent.com/82983000/128601196-93afa870-6cba-4cd1-b349-fdecc006d48d.png)
 
 
-
+- From the output of the formula it is clear that vehicle length and ground clearance are the two variables that provided a non-random amount of variance to the mpg values in the data set and therefore have the most impact on the mpg for the MechaCar prototype. 
 
 
 
