@@ -46,6 +46,23 @@
 
 ### T-Tests on Suspension Coils
 
+
+#### Code: 
+![D3Code](https://user-images.githubusercontent.com/82983000/128602034-06528031-b722-4146-ad08-ff4354007559.png)
+
+
+#### One Sample: 
+
+![D3Part1OneSample](https://user-images.githubusercontent.com/82983000/128602046-9019fa1c-5a24-4fb7-b0c0-188f51149967.png)
+
+
+#### 1-3 Lot Tests: 
+
+![D3Part2TheRest](https://user-images.githubusercontent.com/82983000/128602062-bc9aa52e-2763-4a9f-9bb3-8b632e752ff9.png)
+
+
+
+
 briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
 
